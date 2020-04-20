@@ -1,0 +1,90 @@
+.banner{
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px gray;
+}
+.menu{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #CF6361;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px gray;
+
+}
+a{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+.container{
+    
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.container2{
+    
+    display: flex;
+    justify-content: space-between;
+}
+.container3{
+    
+    display: flex;
+    justify-content: center;
+}
+.imagemquadro{
+    width: 100%;
+
+}
+.imagemv{
+    border-radius: 9990px;
+    width: 60%;
+    
+}
+.quadro{
+    padding: 15px;
+    width: 450px;
+}
+.quadropage{
+    padding: 15px;
+    width: 450px;
+}
+.descricao{
+    padding: 15px;
+}
+.descricaopage{
+    padding: 20px;
+    width: 850px;
+    text-align: justify;
+}
+#email{
+    padding: 50px;
+    width: 20%;
+}
+#contato{
+    background-color: #CF6361;
+}
+input{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+button{
+    background-color: #CF6361;
+    width: 70px;
+    height: 40px;
+    color: white;
+    box-shadow: blue 2px 2px 6px;
+}
+.rodape{
+    background-color: #CF6361;
+}
+h5{
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+}
